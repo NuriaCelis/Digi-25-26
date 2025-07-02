@@ -10,3 +10,8 @@ Antes de comenzar, vamos a realizar un pequeño test para evaluar vuestros conoc
 
 https://forms.office.com/e/dikDESPpXG
 
+
+
+https://www.youtube.com/watch?v=KdknJfxL8kU
+
+Video de 15 minutos donde habla de la 1º revolución industrial.
