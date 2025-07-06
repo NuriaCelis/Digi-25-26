@@ -1,78 +1,14 @@
 # Tema 1. Economía Circular y Lineal
-
 - [Tema 1. Economía Circular y Lineal](#tema-1-economía-circular-y-lineal)
   - [1. Definición de Economía Lineal y Circular](#1-definición-de-economía-lineal-y-circular)
-    - [¿Qué es la Economía Lineal?](#qué-es-la-economía-lineal)
-      - [Características clave de la economía lineal:](#características-clave-de-la-economía-lineal)
-    - [¿Qué es la Economía Circular?](#qué-es-la-economía-circular)
-      - [Principios de la economía circular:](#principios-de-la-economía-circular)
-    - [Diferencias entre ambos modelos](#diferencias-entre-ambos-modelos)
-  - [🧠 REFLEXIONA](#-reflexiona)
-  - [🌐 AMPLÍA](#-amplía)
-  - [💡 RECUERDA](#-recuerda)
-  - [✍️ CONTESTA](#️-contesta)
   - [](#)
   - [2. Responsabilidad Social: RSC y RSE](#2-responsabilidad-social-rsc-y-rse)
-    - [¿Qué es la Responsabilidad Social?](#qué-es-la-responsabilidad-social)
-    - [RSC – Responsabilidad Social Corporativa](#rsc--responsabilidad-social-corporativa)
-      - [Ejemplos de RSC:](#ejemplos-de-rsc)
-    - [RSE – Responsabilidad Social Empresarial](#rse--responsabilidad-social-empresarial)
-      - [La RSE implica:](#la-rse-implica)
-    - [Diferencias clave entre RSC y RSE](#diferencias-clave-entre-rsc-y-rse)
-  - [🧠 REFLEXIONA](#-reflexiona-1)
-  - [🌐 AMPLÍA](#-amplía-1)
-  - [💡 RECUERDA](#-recuerda-1)
-  - [✍️ CONTESTA](#️-contesta-1)
   - [3. Importancia del Reciclaje en los Modelos Económicos](#3-importancia-del-reciclaje-en-los-modelos-económicos)
-    - [El reciclaje como pieza clave en la sostenibilidad](#el-reciclaje-como-pieza-clave-en-la-sostenibilidad)
-    - [En la economía lineal: el reciclaje es marginal](#en-la-economía-lineal-el-reciclaje-es-marginal)
-    - [En la economía circular: el reciclaje es estratégico](#en-la-economía-circular-el-reciclaje-es-estratégico)
-    - [Beneficios económicos del reciclaje](#beneficios-económicos-del-reciclaje)
-    - [Beneficios ambientales del reciclaje](#beneficios-ambientales-del-reciclaje)
-  - [🧠 REFLEXIONA](#-reflexiona-2)
-  - [🌐 AMPLÍA](#-amplía-2)
-  - [💡 RECUERDA](#-recuerda-2)
-  - [✍️ CONTESTA](#️-contesta-2)
   - [](#-1)
-  - [4. Procesos reales basados en diferentes modelos de economía](#4-procesos-reales-basados-en-diferentes-modelos-de-economía)
-    - [Parte 1: Procesos reales basados en la Economía Lineal](#parte-1-procesos-reales-basados-en-la-economía-lineal)
-    - [¿Cómo funciona la economía lineal en la práctica?](#cómo-funciona-la-economía-lineal-en-la-práctica)
-    - [Características principales de los procesos lineales](#características-principales-de-los-procesos-lineales)
-    - [Ejemplos reales de procesos lineales](#ejemplos-reales-de-procesos-lineales)
-      - [🧴 Industria del plástico](#-industria-del-plástico)
-      - [👕 Industria textil de “moda rápida” (fast fashion)](#-industria-textil-de-moda-rápida-fast-fashion)
-      - [📱 Electrónica de consumo](#-electrónica-de-consumo)
-      - [🏗️ Construcción convencional](#️-construcción-convencional)
-    - [Consecuencias del modelo lineal](#consecuencias-del-modelo-lineal)
-  - [🧠 REFLEXIONA](#-reflexiona-3)
-  - [🌐 AMPLÍA](#-amplía-3)
-  - [💡 RECUERDA](#-recuerda-3)
-  - [✍️ CONTESTA](#️-contesta-3)
-  - [4. Procesos reales basados en diferentes modelos de economía](#4-procesos-reales-basados-en-diferentes-modelos-de-economía-1)
-    - [Parte 2: Procesos reales basados en la Economía Circular](#parte-2-procesos-reales-basados-en-la-economía-circular)
-    - [¿Cómo funciona la economía circular en la práctica?](#cómo-funciona-la-economía-circular-en-la-práctica)
-    - [Características de los procesos circulares](#características-de-los-procesos-circulares)
-    - [Ejemplos reales de economía circular](#ejemplos-reales-de-economía-circular)
-      - [👟 Adidas – Zapatillas 100% reciclables](#-adidas--zapatillas-100-reciclables)
-      - [🧺 Vinted – Plataforma de ropa de segunda mano](#-vinted--plataforma-de-ropa-de-segunda-mano)
-      - [🔄 Interface – Alfombras modulares circulares](#-interface--alfombras-modulares-circulares)
-      - [♻️ Envasado retornable en supermercados](#️-envasado-retornable-en-supermercados)
-      - [🚲 Talleres de reparación de bicicletas](#-talleres-de-reparación-de-bicicletas)
-    - [Beneficios de los procesos circulares](#beneficios-de-los-procesos-circulares)
-  - [🧠 REFLEXIONA](#-reflexiona-4)
-  - [🌐 AMPLÍA](#-amplía-4)
-  - [💡 RECUERDA](#-recuerda-4)
-  - [✍️ CONTESTA](#️-contesta-4)
+  - [4. Procesos reales basados en diferentes modelos de economía. Parte 1: Procesos reales basados en la Economía Lineal](#4-procesos-reales-basados-en-diferentes-modelos-de-economía-parte-1-procesos-reales-basados-en-la-economía-lineal)
+  - [4. Procesos reales basados en diferentes modelos de economía. Parte 2: Procesos reales basados en la Economía Circular](#4-procesos-reales-basados-en-diferentes-modelos-de-economía-parte-2-procesos-reales-basados-en-la-economía-circular)
   - [](#-2)
   - [5. Impacto medioambiental y en los ODS de los dos modelos económicos](#5-impacto-medioambiental-y-en-los-ods-de-los-dos-modelos-económicos)
-    - [¿Cómo afectan los modelos económicos al medioambiente y al desarrollo sostenible?](#cómo-afectan-los-modelos-económicos-al-medioambiente-y-al-desarrollo-sostenible)
-    - [🌍 Impacto medioambiental de la economía lineal](#-impacto-medioambiental-de-la-economía-lineal)
-    - [🌱 Impacto medioambiental de la economía circular](#-impacto-medioambiental-de-la-economía-circular)
-    - [🎯 Relación con los Objetivos de Desarrollo Sostenible (ODS)](#-relación-con-los-objetivos-de-desarrollo-sostenible-ods)
-  - [🧠 REFLEXIONA](#-reflexiona-5)
-  - [🌐 AMPLÍA](#-amplía-5)
-  - [💡 RECUERDA](#-recuerda-5)
-  - [✍️ CONTESTA](#️-contesta-5)
   - [](#-3)
 
 ## 1. Definición de Economía Lineal y Circular
@@ -129,7 +65,7 @@ Este modelo busca una **economía regenerativa**, donde el desarrollo económico
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Te has parado a pensar cuántas veces al año cambias de móvil, ropa o accesorios tecnológicos?  
 > ¿Qué pasa con esos productos cuando dejas de usarlos?
@@ -138,7 +74,7 @@ Piensa en ejemplos de tu vida cotidiana que siguen el modelo lineal y cómo podr
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **Vídeo recomendado (2 min):**  
 [¿En qué consiste la economía circular? | ACCIONA](https://www.youtube.com/watch?v=wc_65-yf6zU)
@@ -148,7 +84,7 @@ Piensa en ejemplos de tu vida cotidiana que siguen el modelo lineal y cómo podr
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - La economía lineal ha sido útil para el desarrollo industrial, pero está generando una **crisis ecológica global**.
 - La economía circular no solo es una **alternativa ecológica**, sino también una **oportunidad económica y laboral**.
@@ -156,7 +92,7 @@ Piensa en ejemplos de tu vida cotidiana que siguen el modelo lineal y cómo podr
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Cuál de las siguientes opciones describe mejor la economía lineal?**
 
@@ -245,7 +181,7 @@ Una empresa que aplica la RSE **no separa lo económico de lo social y lo ambien
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Crees que las empresas deben tener un papel activo en la mejora de la sociedad, o su única función debe ser generar beneficios?
 
@@ -254,7 +190,7 @@ Piensa en alguna marca que conozcas y reflexiona sobre cómo actúa:
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **Vídeo breve (1 min):**  
 [Qué es la Responsabilidad Social Empresarial en un minuto](https://www.youtube.com/watch?v=oVBayWzCfFE)
@@ -268,7 +204,7 @@ Busca en esta página el ranking más actualizado posible de las empresas más r
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - La **RSC** se centra en acciones voluntarias que beneficien a la comunidad.
 - La **RSE** implica cambiar la manera de gestionar la empresa para que sea **ética, sostenible y socialmente comprometida**.
@@ -276,7 +212,7 @@ Busca en esta página el ranking más actualizado posible de las empresas más r
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Qué característica define mejor la RSE frente a la RSC?**
 
@@ -368,7 +304,7 @@ Por ejemplo, **reciclar una tonelada de papel ahorra 140 litros de petróleo y 2
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Cuántos productos que utilizas a diario están hechos de materiales reciclados?  
 > ¿Dónde acaban los residuos que generas?  
@@ -378,7 +314,7 @@ Piensa en lo que tiras cada semana en casa. ¿Podría haberse reciclado o reutil
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **Vídeo educativo (3 min):**  
 [¿Qué pasaría si DEJAMOS de RECICLAR? ♻️ | Importancia del Reciclaje](https://www.youtube.com/watch?v=d84Sbs5IVzc)
@@ -388,7 +324,7 @@ Piensa en lo que tiras cada semana en casa. ¿Podría haberse reciclado o reutil
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - El reciclaje **no es solo una acción individual**, sino una estrategia de economía sostenible.
 - En la economía circular, reciclar **no es el último recurso**, sino parte esencial del ciclo productivo.
@@ -396,7 +332,7 @@ Piensa en lo que tiras cada semana en casa. ¿Podría haberse reciclado o reutil
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Qué modelo económico considera el reciclaje como parte integral del sistema?**
 
@@ -431,8 +367,7 @@ D) Ahorro de energía
 </details>
 ---
 
-## 4. Procesos reales basados en diferentes modelos de economía  
-### Parte 1: Procesos reales basados en la Economía Lineal
+## 4. Procesos reales basados en diferentes modelos de economía. Parte 1: Procesos reales basados en la Economía Lineal
 
 ### ¿Cómo funciona la economía lineal en la práctica?
 
@@ -494,7 +429,7 @@ Este modelo ha sido dominante desde la Revolución Industrial y ha permitido un 
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Te has planteado alguna vez qué ocurre con los productos que tiramos?  
 > ¿Por qué crees que se fabrican productos con una vida útil cada vez más corta?
@@ -503,14 +438,14 @@ Piensa en un objeto que hayas comprado en el último mes. ¿Qué pasará con él
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **Lo que no te cuentan las marcas grandes de ropa. (6 min):**  
 [El Verdadero Precio del Fast Fashion](https://www.youtube.com/watch?v=aO6Tm-OT3NI)
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - La economía lineal **no contempla el reciclaje ni la reutilización** como parte estructural del sistema.
 - Prioriza el beneficio inmediato frente a la sostenibilidad a largo plazo.
@@ -518,7 +453,7 @@ Piensa en un objeto que hayas comprado en el último mes. ¿Qué pasará con él
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Cuál de las siguientes industrias es un ejemplo típico de proceso lineal?**
 
@@ -553,8 +488,7 @@ D) Agotamiento de los recursos naturales
 
 ---
 
-## 4. Procesos reales basados en diferentes modelos de economía  
-### Parte 2: Procesos reales basados en la Economía Circular
+## 4. Procesos reales basados en diferentes modelos de economía. Parte 2: Procesos reales basados en la Economía Circular
 
 ### ¿Cómo funciona la economía circular en la práctica?
 
@@ -619,14 +553,14 @@ Sus principios clave son:
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Conoces alguna empresa o iniciativa en tu entorno que siga principios de economía circular?  
 > ¿Qué puedes hacer tú para alargar la vida útil de los productos que usas?
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **Economía circular en la vida real (3 min):**  
 [¿Qué es la economía circular? – Fundación Ellen MacArthur (subtitulado)](https://www.youtube.com/watch?v=zCRKvDyyHmI)
@@ -636,7 +570,7 @@ Sus principios clave son:
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - En la economía circular, los residuos **se convierten en recursos**.
 - El objetivo es **cerrar el ciclo de vida de los productos**, maximizando su aprovechamiento.
@@ -644,7 +578,7 @@ Sus principios clave son:
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Qué principio NO pertenece a la economía circular?**
 
@@ -731,7 +665,7 @@ La economía circular **apoya directamente** muchos de estos objetivos, mientras
 
 ---
 
-## 🧠 REFLEXIONA
+### 🧠 REFLEXIONA
 
 > ¿Qué modelo económico crees que ayuda más a conseguir un futuro sostenible?  
 > ¿Qué pequeños gestos puedes incorporar tú en tu día a día para alinearte con los ODS?
@@ -740,14 +674,14 @@ Piensa en algún producto que consumas habitualmente. ¿Su proceso de producció
 
 ---
 
-## 🌐 AMPLÍA
+### 🌐 AMPLÍA
 
 🎥 **ODS y sostenibilidad (6 min):**  
 [Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos](https://www.youtube.com/watch?v=MCKH5xk8X-g)
 
 ---
 
-## 💡 RECUERDA
+### 💡 RECUERDA
 
 - La **economía lineal** agrava el cambio climático y la crisis ecológica.
 - La **economía circular** es una aliada clave para alcanzar los **Objetivos de Desarrollo Sostenible**.
@@ -755,7 +689,7 @@ Piensa en algún producto que consumas habitualmente. ¿Su proceso de producció
 
 ---
 
-## ✍️ CONTESTA
+### ✍️ CONTESTA
 
 **1. ¿Qué afirmación es cierta sobre la economía circular y los ODS?**
 
