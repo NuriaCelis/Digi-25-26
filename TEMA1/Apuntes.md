@@ -174,7 +174,7 @@ Piensa en alguna marca que conozcas y reflexiona sobre cómo actúa:
 🎥 **Vídeo breve (1 min):**  
 [Qué es la Responsabilidad Social Empresarial en un minuto](https://www.youtube.com/watch?v=oVBayWzCfFE)
 
-🎥 **Caso real (5 min):**  
+🎥 **Busca datos actualizados:**  
 Busca en esta página el ranking más actualizado posible de las empresas más responsables de latinoamérica y España, Portugal e Italia.
 
 https://www.merco.info/es/
@@ -199,7 +199,13 @@ B) Se integra en todas las áreas de la empresa.
 C) Solo afecta a la comunicación externa.  
 D) Se aplica solo en grandes empresas.
 
-✅ **Respuesta correcta:** B
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: B) Se integra en todas las áreas de la empresa.**  
+Explicación: La economía circular busca mantener los productos y materiales en uso durante el mayor tiempo posible, reutilizando, reparando y reciclando.
+
+</details>
 
 ---
 
