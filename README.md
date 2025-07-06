@@ -1,3 +1,10 @@
 # Digi-25-26
+# DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS
 
-Este es el índice del módulo de Digitalización.
+Apuntes de programación del CFGM de Digitalización aplicada a los sectores productivos.
+
+## Indice 🚀
+
+**1. UNIDAD 1. Economía circular y economía lineal.**
+
+  [Apuntes de la Unidad 1.](Tema1/Apuntes.md)
