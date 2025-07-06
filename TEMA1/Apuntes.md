@@ -1,6 +1,6 @@
 # Tema 1. Economía Circular y Lineal
 
-## 1. Definición de Economías Lineal y Circular
+## 1. Definición de Economía Lineal y Circular
 
 ### ¿Qué es la Economía Lineal?
 
@@ -26,8 +26,8 @@ Este sistema ha sido eficaz para el crecimiento económico a corto plazo, pero n
 
 La economía circular surge como alternativa al modelo lineal. Busca imitar los ciclos de la naturaleza, donde **nada se desperdicia** y **todo se reutiliza**.
 
-> “La economía circular consiste en mantener el valor de los productos, materiales y recursos en la economía durante el mayor tiempo posible, y en reducir al mínimo la generación de residuos.”  
-> — Comisión Europea
+> “La economía circular es aquella en la que el valor de los productos, los materiales y los recursos se mantienen en la economía durante el mayor tiempo posible, y en la que se reduce al mínimo la generación de residuos, lo que constituye una contribución esencial a los esfuerzos de la UE encaminados a lograr una economía sostenible, descarbonizada, eficiente en el uso de los recursos y competitiva.”  
+> — https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular.html
 
 #### Principios de la economía circular:
 
@@ -65,11 +65,11 @@ Piensa en ejemplos de tu vida cotidiana que siguen el modelo lineal y cómo podr
 
 ## 🌐 AMPLÍA
 
-🎥 **Vídeo recomendado (3 min):**  
-[¿Qué es la economía circular? – Fundación Cotec](https://www.youtube.com/watch?v=5n8NfxPIkLw)
+🎥 **Vídeo recomendado (2 min):**  
+[¿En qué consiste la economía circular? | ACCIONA](https://www.youtube.com/watch?v=wc_65-yf6zU)
 
-🎥 **Explicación con ejemplos (6 min):**  
-[Economía circular vs. economía lineal – BBVA Aprendemos Juntos](https://www.youtube.com/watch?v=E8k3o8FuQb8)
+🎥 **Explicación con ejemplos (2 min):**  
+[¿Qué es la economía circular?-Ministerio Transición Ecológica y Reto Demográfico](https://www.youtube.com/watch?v=aB2mK5QKyvY)
 
 ---
 
