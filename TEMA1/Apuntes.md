@@ -3,17 +3,12 @@
 ## Índice
 
 - [Tema 1. Economía Circular y Lineal](#tema-1-economía-circular-y-lineal)
-  - [Índice](#índice)
   - [1. Definición de Economía Lineal y Circular](#1-definición-de-economía-lineal-y-circular)
-  - [](#)
   - [2. Responsabilidad Social: RSC y RSE](#2-responsabilidad-social-rsc-y-rse)
   - [3. Importancia del Reciclaje en los Modelos Económicos](#3-importancia-del-reciclaje-en-los-modelos-económicos)
-  - [](#-1)
   - [4. Procesos reales basados en diferentes modelos de economía. Parte 1: Procesos reales basados en la Economía Lineal](#4-procesos-reales-basados-en-diferentes-modelos-de-economía-parte-1-procesos-reales-basados-en-la-economía-lineal)
   - [4. Procesos reales basados en diferentes modelos de economía. Parte 2: Procesos reales basados en la Economía Circular](#4-procesos-reales-basados-en-diferentes-modelos-de-economía-parte-2-procesos-reales-basados-en-la-economía-circular)
-  - [](#-2)
   - [5. Impacto medioambiental y en los ODS de los dos modelos económicos](#5-impacto-medioambiental-y-en-los-ods-de-los-dos-modelos-económicos)
-  - [](#-3)
 
 ## 1. Definición de Economía Lineal y Circular
 ### ¿Qué es la Economía Lineal?
