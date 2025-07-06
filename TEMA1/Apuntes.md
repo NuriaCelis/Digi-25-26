@@ -704,8 +704,6 @@ B) Incremento de la biodiversidad
 C) Contaminación del agua y el aire  
 D) Producción colaborativa
 
-✅ **Respuesta correcta:** C
-
 <details>
 <summary>Ver respuesta</summary>
 
