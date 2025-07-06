@@ -105,6 +105,9 @@ D) Reciclaje
 
 ---
 
+REVISADO HASTA AQUI
+
+
 ## 2. Responsabilidad Social: RSC y RSE
 
 ### ¿Qué es la Responsabilidad Social?
