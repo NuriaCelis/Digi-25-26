@@ -12,7 +12,6 @@
   - [](#-3)
 
 ## 1. Definición de Economía Lineal y Circular
-
 ### ¿Qué es la Economía Lineal?
 
 La economía lineal es el modelo de producción y consumo predominante desde la Revolución Industrial. Se basa en un enfoque de **"usar y tirar"** y responde a la lógica:
@@ -31,8 +30,6 @@ Este modelo utiliza grandes cantidades de **recursos naturales**, muchos de ello
 
 Este sistema ha sido eficaz para el crecimiento económico a corto plazo, pero no es sostenible a largo plazo. El agotamiento de recursos, el cambio climático y la acumulación de residuos son consecuencias directas de este modelo.
 
----
-
 ### ¿Qué es la Economía Circular?
 
 La economía circular surge como alternativa al modelo lineal. Busca imitar los ciclos de la naturaleza, donde **nada se desperdicia** y **todo se reutiliza**.
@@ -50,8 +47,6 @@ La economía circular surge como alternativa al modelo lineal. Busca imitar los 
 6. **Energía renovable**: usar fuentes limpias en los procesos productivos.
 
 Este modelo busca una **economía regenerativa**, donde el desarrollo económico y la sostenibilidad ambiental vayan de la mano.
-
----
 
 ### Diferencias entre ambos modelos
 
@@ -125,7 +120,6 @@ D) Reciclaje
 </details>
 
 ---
-
 
 ## 2. Responsabilidad Social: RSC y RSE
 
