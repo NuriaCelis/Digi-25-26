@@ -556,8 +556,8 @@ Sus principios clave son:
 🎥 **Economía circular en la vida real (3 min):**  
 [¿Qué es la economía circular? – Fundación Ellen MacArthur (subtitulado)](https://www.youtube.com/watch?v=zCRKvDyyHmI)
 
-🎥 **Ejemplo español de éxito: Recircular (2 min):**  
-[Recircular – Conecta residuos con oportunidades](https://www.youtube.com/watch?v=qQZPGkAGzMg)
+🎥 **Ejemplo español de éxito: Recircular (3 min):**  
+[Así crea ADIDAS zapatillas a partir de plástico reciclado](https://www.youtube.com/watch?v=aC4kzxwU7ac)
 
 ---
 
@@ -578,8 +578,12 @@ B) Usar materias primas vírgenes siempre que sea posible
 C) Promover la reutilización y reparación  
 D) Regenerar los sistemas naturales
 
-✅ **Respuesta correcta:** B
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: B) Usar materias primas vírgenes siempre que sea posible.**  
+
+</details>
 ---
 
 **2. ¿Cuál de estos modelos se basa en la economía circular?**
@@ -589,7 +593,13 @@ B) Recogida de envases retornables en supermercados
 C) Producción de ropa con fibras sintéticas no reciclables  
 D) Exportación de residuos electrónicos a otros países
 
-✅ **Respuesta correcta:** B
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: B) Recogida de envases retornables en supermercados.**  
+
+</details>
 
 ---
 
