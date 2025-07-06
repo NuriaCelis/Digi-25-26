@@ -91,7 +91,12 @@ C) Producir, consumir y desechar sin reaprovechamiento
 D) Utilizar energías renovables en los procesos industriales  
 
 
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: C) Producir, consumir y desechar sin reaprovechamiento.**  
+
+</details>
 ---
 
 **2. ¿Qué principio NO forma parte de la economía circular?**
@@ -101,7 +106,12 @@ B) Reutilización
 C) Obsolescencia programada  
 D) Reciclaje  
 
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: C) Obsolescencia programada.**  
+
+</details>
 
 ---
 
@@ -177,7 +187,8 @@ Piensa en alguna marca que conozcas y reflexiona sobre cómo actúa:
 🎥 **Busca datos actualizados:**  
 Busca en esta página el ranking más actualizado posible de las empresas más responsables de latinoamérica y España, Portugal e Italia.
 
-https://www.merco.info/es/
+[Merco.info](https://www.merco.info/es/)
+
 
 
 ---
@@ -203,7 +214,6 @@ D) Se aplica solo en grandes empresas.
 <summary>Ver respuesta</summary>
 
 ✅ **Respuesta correcta: B) Se integra en todas las áreas de la empresa.**  
-Explicación: La economía circular busca mantener los productos y materiales en uso durante el mayor tiempo posible, reutilizando, reparando y reciclando.
 
 </details>
 
@@ -216,7 +226,13 @@ B) Diseñar una política interna de igualdad salarial.
 C) Hacer una donación anual a un banco de alimentos.  
 D) Cambiar toda la flota de vehículos por coches eléctricos.
 
-✅ **Respuesta correcta:** C
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Hacer una donación anual a un banco de alimentos.**  
+
+</details>
 
 ---
 
