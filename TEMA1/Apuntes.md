@@ -667,11 +667,8 @@ Piensa en algún producto que consumas habitualmente. ¿Su proceso de producció
 
 ## 🌐 AMPLÍA
 
-🎥 **ODS y sostenibilidad (2 min):**  
-[¿Qué son los ODS? – PNUD en español](https://www.youtube.com/watch?v=7V8oFI4GYMY)
-
-🎥 **Economía circular y cambio climático (5 min):**  
-[Fundación Ellen MacArthur – Economía circular y CO₂](https://www.youtube.com/watch?v=kvCEzR2E5g0)
+🎥 **ODS y sostenibilidad (6 min):**  
+[Los Objetivos de Desarrollo Sostenible - qué son y cómo alcanzarlos](https://www.youtube.com/watch?v=MCKH5xk8X-g)
 
 ---
 
@@ -692,8 +689,12 @@ B) Favorece varios ODS relacionados con el medioambiente y la innovación
 C) Solo está relacionada con el reciclaje  
 D) Dificulta la consecución de los ODS
 
-✅ **Respuesta correcta:** B
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: B) Favorece varios ODS relacionados con el medioambiente y la innovación.**  
+
+</details>
 ---
 
 **2. ¿Cuál de estos problemas es una consecuencia típica de la economía lineal?**
@@ -704,5 +705,12 @@ C) Contaminación del agua y el aire
 D) Producción colaborativa
 
 ✅ **Respuesta correcta:** C
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Contaminación del agua y el aire .**  
+
+</details>
 
 ---
