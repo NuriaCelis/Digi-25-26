@@ -305,11 +305,11 @@ Piensa en lo que tiras cada semana en casa. ¿Podría haberse reciclado o reutil
 
 ## 🌐 AMPLÍA
 
-🎥 **Vídeo educativo (5 min):**  
-[¿Por qué es importante reciclar? – Fundación Aquae](https://www.youtube.com/watch?v=dcgZOPxvqDg)
+🎥 **Vídeo educativo (3 min):**  
+[¿Qué pasaría si DEJAMOS de RECICLAR? ♻️ | Importancia del Reciclaje](https://www.youtube.com/watch?v=d84Sbs5IVzc)
 
 🎥 **Explicación con datos (3 min):**  
-[La importancia del reciclaje – Educatina](https://www.youtube.com/watch?v=w3uNW4zObkU)
+[Impacto del Reciclaje: Datos que Debe Conocer](https://www.youtube.com/watch?v=sdMIPRooL3w)
 
 ---
 
@@ -330,7 +330,13 @@ B) Economía industrial
 C) Economía circular  
 D) Economía especulativa  
 
-✅ **Respuesta correcta:** C
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Economía circular.**  
+
+</details>
+
 
 ---
 
@@ -341,8 +347,13 @@ B) Reducción del uso de materias primas
 C) Aumento de residuos en vertederos  
 D) Ahorro de energía
 
-✅ **Respuesta correcta:** C
 
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Aumento de residuos en vertederos.**  
+
+</details>
 ---
 
 ## 4. Procesos reales basados en diferentes modelos de economía  
@@ -419,11 +430,8 @@ Piensa en un objeto que hayas comprado en el último mes. ¿Qué pasará con él
 
 ## 🌐 AMPLÍA
 
-🎥 **Documental completo (15 min):**  
-[La historia de las cosas – The Story of Stuff (subtitulado)](https://www.youtube.com/watch?v=9GorqroigqM)
-
-🎥 **Impacto real de la fast fashion (5 min):**  
-[¿Cuál es el impacto ambiental de la moda rápida? – DW Documental](https://www.youtube.com/watch?v=dx-dDb8FjrQ)
+🎥 **Lo que no te cuentan las marcas grandes de ropa. (6 min):**  
+[El Verdadero Precio del Fast Fashion](https://www.youtube.com/watch?v=aO6Tm-OT3NI)
 
 ---
 
@@ -444,7 +452,12 @@ B) Agricultura ecológica
 C) Moda rápida  
 D) Producción artesanal de muebles
 
-✅ **Respuesta correcta:** C
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Moda rápida.**  
+
+</details>
 
 ---
 
@@ -455,7 +468,13 @@ B) Reutilización eficiente de materiales
 C) Mejora de la calidad de vida global  
 D) Agotamiento de los recursos naturales
 
-✅ **Respuesta correcta:** D
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: D) Agotamiento de los recursos naturales.**  
+
+</details>
 
 ---
 
