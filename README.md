@@ -1,4 +1,4 @@
-# Digi-25-26
+
 # DIGITALIZACIÓN APLICADA A LOS SECTORES PRODUCTIVOS
 
 Apuntes de programación del CFGM de Digitalización aplicada a los sectores productivos.
