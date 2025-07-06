@@ -68,7 +68,7 @@ Piensa en ejemplos de tu vida cotidiana que siguen el modelo lineal y cómo podr
 🎥 **Vídeo recomendado (2 min):**  
 [¿En qué consiste la economía circular? | ACCIONA](https://www.youtube.com/watch?v=wc_65-yf6zU)
 
-🎥 **Explicación con ejemplos (2 min):**  
+🎥 **Vídeo recomendado (2 min):**  
 [¿Qué es la economía circular?-Ministerio Transición Ecológica y Reto Demográfico](https://www.youtube.com/watch?v=aB2mK5QKyvY)
 
 ---
@@ -104,8 +104,6 @@ D) Reciclaje
 
 
 ---
-
-REVISADO HASTA AQUI
 
 
 ## 2. Responsabilidad Social: RSC y RSE
@@ -173,11 +171,14 @@ Piensa en alguna marca que conozcas y reflexiona sobre cómo actúa:
 
 ## 🌐 AMPLÍA
 
-🎥 **Vídeo breve (3 min):**  
-[¿Qué es la Responsabilidad Social Empresarial? – Fundación Carlos Slim](https://www.youtube.com/watch?v=p6zWlRQBNMI)
+🎥 **Vídeo breve (1 min):**  
+[Qué es la Responsabilidad Social Empresarial en un minuto](https://www.youtube.com/watch?v=oVBayWzCfFE)
 
 🎥 **Caso real (5 min):**  
-[Ejemplo de empresa socialmente responsable – Iberdrola](https://www.youtube.com/watch?v=CIzWaWZMtDQ)
+Busca en esta página el ranking más actualizado posible de las empresas más responsables de latinoamérica y España, Portugal e Italia.
+
+https://www.merco.info/es/
+
 
 ---
 
