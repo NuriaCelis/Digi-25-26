@@ -1,5 +1,9 @@
 # Tema 1. Economía Circular y Lineal
+
+## Índice
+
 - [Tema 1. Economía Circular y Lineal](#tema-1-economía-circular-y-lineal)
+  - [Índice](#índice)
   - [1. Definición de Economía Lineal y Circular](#1-definición-de-economía-lineal-y-circular)
   - [](#)
   - [2. Responsabilidad Social: RSC y RSE](#2-responsabilidad-social-rsc-y-rse)
