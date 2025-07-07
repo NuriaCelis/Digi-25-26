@@ -1,4 +1,5 @@
-# Tema 2: La 4.ª Revolución Industrial  
+# Tema 2: La 4.ª Revolución Industrial 
+
 ## 1. Sistemas ciberfísicos
 
 ### ¿Qué son los sistemas ciberfísicos?
@@ -172,10 +173,9 @@ Piensa en una tarea rutinaria en tu hogar (por ejemplo, subir las persianas, pon
 
 ## 📺 AMPLÍA
 
-🎥 [¿Qué es un sistema automatizado? – Udemy (3:45 min)](https://www.youtube.com/watch?v=RkmPv8mYv0A)  
 🎥 [AMAZON incorpora en sus almacenes a robots humanoides que trabajan junto a sus empleados  – ElPaís (1 min)](https://www.youtube.com/watch?v=V3zOqrrtbrA)
-📄 [Automatización y control industrial – Fundación Repsol](https://www.fundacionrepsol.com/es/energia-e-industria/automatizacion-industrial/)
 
+📄[¿Qué es la Cuarta Revolución Industrial y cómo surge? - Repsol](https://www.repsol.com/es/energia-futuro/tecnologia-innovacion/cuarta-revolucion-industrial/index.cshtml)
 ---
 
 ## 💡 RECUERDA
@@ -196,8 +196,12 @@ B) Actuador
 C) Controlador lógico  
 D) Router Wi-Fi doméstico  
 
-**✅ Respuesta correcta:** D
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: D) Router Wi-Fi doméstico.**  
+
+</details>
 ---
 
 **2. ¿Qué tipo de automatización permite adaptar los procesos sin parar la producción?**
@@ -207,8 +211,12 @@ B) Rígida
 C) Flexible  
 D) Manual  
 
-**✅ Respuesta correcta:** C
+<details>
+<summary>Ver respuesta</summary>
 
+✅ **Respuesta correcta: C) Flexible.**  
+
+</details>
 ---
 
 **3. ¿Qué ventaja tiene automatizar tareas en la industria?**
@@ -218,8 +226,151 @@ B) Aumenta la variabilidad en la calidad
 C) Disminuye la eficiencia  
 D) Mejora la seguridad en el trabajo  
 
-**✅ Respuesta correcta:** D
+<details>
+<summary>Ver respuesta</summary>
 
-```
+✅ **Respuesta correcta: D) Mejora la seguridad en el trabajo.**  
 
-¿Quieres que prepare ya el epígrafe 3 sobre la combinación de parte física, software, IoT y comunicaciones?
+</details>
+
+---
+
+# Tema: La 4.ª Revolución Industrial  
+## 3. Interrelación entre el mundo físico y el virtual
+
+### ¿Qué significa la interrelación entre lo físico y lo virtual?
+
+En el contexto de la Industria 4.0, la interrelación entre el mundo físico y el virtual hace referencia a la **conexión e integración de máquinas físicas, objetos reales y entornos de trabajo con sistemas digitales, software, sensores, datos y redes de comunicación**.
+
+Este fenómeno permite crear sistemas ciberfísicos capaces de:
+
+- **Monitorizar el entorno físico en tiempo real**.
+- **Recoger datos** mediante sensores o dispositivos IoT.
+- **Procesar esos datos** con algoritmos, software o inteligencia artificial.
+- **Tomar decisiones o activar procesos físicos**, como ajustar un sistema de climatización o detener una línea de montaje.
+
+---
+
+### Elementos que integran ambos mundos
+
+| Elemento                         | Función principal                                                 |
+|----------------------------------|-------------------------------------------------------------------|
+| **Sensores**                     | Detectan temperatura, movimiento, presión, humedad, etc.         |
+| **Actuadores**                   | Ejecutan acciones físicas (abrir válvulas, mover motores…).      |
+| **Dispositivos IoT**             | Conectan sensores/actuadores a internet para enviar/recibir datos|
+| **Software industrial**          | Procesa datos, modela entornos, simula procesos.                 |
+| **Gemelos digitales (Digital Twins)** | Réplicas virtuales de máquinas o procesos reales.               |
+| **Inteligencia Artificial**      | Analiza patrones y propone mejoras o toma decisiones autónomas.  |
+
+---
+
+### Ejemplos de interrelación físico-virtual en la industria
+
+- **Fábricas inteligentes**: sensores monitorizan máquinas; el software predice fallos antes de que ocurran (mantenimiento predictivo).
+- **Agricultura de precisión**: drones y sensores en el campo transmiten datos a la nube para optimizar el riego o la cosecha.
+- **Logística automatizada**: robots reciben órdenes en tiempo real desde sistemas digitales que gestionan almacenes.
+- **Smart Homes**: luces, persianas o termostatos se controlan desde una app que interpreta datos del entorno.
+
+---
+
+### Caso práctico con herramientas gratuitas
+
+**Crear una simulación de un entorno físico con Tinkercad y Arduino online**
+
+🔧 **Herramienta gratuita:** [Tinkercad Circuits](https://www.tinkercad.com/circuits)
+
+🛠️ **Actividad sugerida:**  
+Simula una pequeña estación meteorológica usando sensores virtuales en Tinkercad.
+
+Pasos básicos:
+
+1. Crear una cuenta gratuita en Tinkercad.
+2. Acceder a la sección de **Circuits**.
+3. Usar una placa **Arduino UNO**, sensores de temperatura y humedad (DHT11), una pantalla LCD o LED.
+4. Programar el comportamiento: mostrar datos en la pantalla.
+5. (Opcional) Simular que los datos se envían a la nube (con comentarios en el código).
+
+🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
+
+---
+
+## 🧠 REFLEXIONA
+
+Imagina que tu instituto quiere hacer más eficiente el consumo energético.
+
+- ¿Qué dispositivos del entorno físico podrían sensorizase?
+- ¿Qué datos serían útiles?
+- ¿Qué acciones podría tomar el sistema de forma automática?
+
+---
+
+## 📺 AMPLÍA
+
+🎥 [¿Qué es un gemelo digital? – Siemens (2:46 min)](https://www.youtube.com/watch?v=YyJqFheCwBs)  
+🛠️ [Simulador gratuito de Arduino – Tinkercad Circuits](https://www.tinkercad.com/circuits)  
+📄 [IoT en la industria: guía introductoria – Telefónica Tech](https://empresas.blogthinkbig.com/iot-industria-industria-4-0/)
+
+---
+
+## 💡 RECUERDA
+
+- El mundo físico y el virtual están conectados mediante sensores, actuadores, software y redes.
+- IoT permite que los objetos físicos "hablen" con los sistemas digitales.
+- Esta conexión permite control remoto, automatización, predicción y optimización de procesos.
+- Herramientas como Tinkercad permiten explorar esta interrelación sin equipamiento físico.
+
+---
+
+## ❓ CONTESTA
+
+**1. ¿Qué dispositivo permite convertir una acción del entorno físico en datos digitales?**
+
+A) Actuador  
+B) Sensor  
+C) Cable USB  
+D) Servidor  
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: B) Sensor.**  
+
+</details>
+
+---
+
+**2. ¿Qué herramienta se utiliza para simular un entorno físico controlado por software?**
+
+A) Microsoft Word  
+B) Tinkercad  
+C) Excel  
+D) PowerPoint  
+
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: B) Tinkercad.**  
+
+</details>
+---
+
+**3. ¿Qué representa un gemelo digital?**
+
+A) Un plano en papel de una máquina  
+B) Un dispositivo físico duplicado  
+C) Una copia virtual exacta de un proceso o máquina real  
+D) Un software de comunicación  
+
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Una copia virtual exacta de un proceso o máquina real.**  
+
+</details>
+
+---
+
+## 🏭 HAZLO TU MISMO
+  [Práctica Opcional](TEMA2/Practica.md)
