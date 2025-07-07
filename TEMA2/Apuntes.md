@@ -106,8 +106,6 @@ Perfecto. Aquí tienes una **versión más extensa** del epígrafe **2. Sistemas
 
 ---
 
-```markdown
-  
 ## 2. Sistemas automatizados
 
 ### ¿Qué son los sistemas automatizados?
