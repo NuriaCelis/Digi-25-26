@@ -233,7 +233,7 @@ D) Mejora la seguridad en el trabajo
 
 ---
 
-# Tema: La 4.ª Revolución Industrial  
+
 ## 3. Interrelación entre el mundo físico y el virtual
 
 ### ¿Qué significa la interrelación entre lo físico y lo virtual?
@@ -268,27 +268,6 @@ Este fenómeno permite crear sistemas ciberfísicos capaces de:
 - **Agricultura de precisión**: drones y sensores en el campo transmiten datos a la nube para optimizar el riego o la cosecha.
 - **Logística automatizada**: robots reciben órdenes en tiempo real desde sistemas digitales que gestionan almacenes.
 - **Smart Homes**: luces, persianas o termostatos se controlan desde una app que interpreta datos del entorno.
-
----
-
-### Caso práctico con herramientas gratuitas
-
-**Crear una simulación de un entorno físico con Tinkercad y Arduino online**
-
-🔧 **Herramienta gratuita:** [Tinkercad Circuits](https://www.tinkercad.com/circuits)
-
-🛠️ **Actividad sugerida:**  
-Simula una pequeña estación meteorológica usando sensores virtuales en Tinkercad.
-
-Pasos básicos:
-
-1. Crear una cuenta gratuita en Tinkercad.
-2. Acceder a la sección de **Circuits**.
-3. Usar una placa **Arduino UNO**, sensores de temperatura y humedad (DHT11), una pantalla LCD o LED.
-4. Programar el comportamiento: mostrar datos en la pantalla.
-5. (Opcional) Simular que los datos se envían a la nube (con comentarios en el código).
-
-🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
 
 ---
 
@@ -371,4 +350,26 @@ D) Un software de comunicación
 ---
 
 ## 🏭 HAZLO TU MISMO
+### Caso práctico con herramientas gratuitas
+
+**Crear una simulación de un entorno físico con Tinkercad y Arduino online**
+
+🔧 **Herramienta gratuita:** [Tinkercad Circuits](https://www.tinkercad.com/circuits)
+
+🛠️ **Actividad sugerida:**  
+Simula una pequeña estación meteorológica usando sensores virtuales en Tinkercad.
+
+Pasos básicos:
+
+1. Crear una cuenta gratuita en Tinkercad.
+2. Acceder a la sección de **Circuits**.
+3. Usar una placa **Arduino UNO**, sensores de temperatura y humedad (DHT11), una pantalla LCD o LED.
+4. Programar el comportamiento: mostrar datos en la pantalla.
+5. (Opcional) Simular que los datos se envían a la nube (con comentarios en el código).
+
+🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
+
   [Práctica Opcional](TEMA2/Practica.md)
+  
+---
+
