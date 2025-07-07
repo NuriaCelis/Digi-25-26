@@ -102,9 +102,6 @@ D) No necesitan software
 ✅ **Respuesta correcta: C) Pueden comunicarse y adaptarse al entorno.**  
 
 </details>
-
-Perfecto. Aquí tienes una **versión más extensa** del epígrafe **2. Sistemas automatizados**, con más contenido explicativo, ejemplos reales y una estructura pensada para **formato Markdown** con los apartados `REFLEXIONA`, `AMPLÍA`, `RECUERDA` y `CONTESTA`.
-
 ---
 
 ## 2. Sistemas automatizados
