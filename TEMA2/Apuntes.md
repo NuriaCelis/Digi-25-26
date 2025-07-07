@@ -330,6 +330,7 @@ D) PowerPoint
 ✅ **Respuesta correcta: B) Tinkercad.**  
 
 </details>
+
 ---
 
 **3. ¿Qué representa un gemelo digital?**
@@ -370,6 +371,6 @@ Pasos básicos:
 🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
 
   [Práctica Opcional](TEMA2/Practica.md)
-  
+
 ---
 
