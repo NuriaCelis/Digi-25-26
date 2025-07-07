@@ -86,6 +86,7 @@ D) Un microondas tradicional
 ✅ **Respuesta correcta: B) Un sensor conectado.**  
 
 </details>
+
 ---
 
 **2. ¿Qué ventaja tienen los CPS frente a los sistemas automatizados tradicionales?**
@@ -102,6 +103,7 @@ D) No necesitan software
 ✅ **Respuesta correcta: C) Pueden comunicarse y adaptarse al entorno.**  
 
 </details>
+
 ---
 
 ## 2. Sistemas automatizados
@@ -200,6 +202,7 @@ D) Router Wi-Fi doméstico
 ✅ **Respuesta correcta: D) Router Wi-Fi doméstico.**  
 
 </details>
+
 ---
 
 **2. ¿Qué tipo de automatización permite adaptar los procesos sin parar la producción?**
@@ -215,6 +218,7 @@ D) Manual
 ✅ **Respuesta correcta: C) Flexible.**  
 
 </details>
+
 ---
 
 **3. ¿Qué ventaja tiene automatizar tareas en la industria?**
@@ -232,7 +236,6 @@ D) Mejora la seguridad en el trabajo
 </details>
 
 ---
-
 
 ## 3. Interrelación entre el mundo físico y el virtual
 
