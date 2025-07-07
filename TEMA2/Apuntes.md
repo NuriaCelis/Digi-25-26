@@ -286,9 +286,9 @@ Imagina que tu instituto quiere hacer más eficiente el consumo energético.
 
 ## 📺 AMPLÍA
 
-🎥 [¿Qué es un gemelo digital? – Siemens (2:46 min)](https://www.youtube.com/watch?v=YyJqFheCwBs)  
+🎥 [¿Sabes qué son los gemelos digitales? – ComputerHoy (7 min)](https://www.youtube.com/watch?v=6Xg8r5BUGjA)  
 🛠️ [Simulador gratuito de Arduino – Tinkercad Circuits](https://www.tinkercad.com/circuits)  
-📄 [IoT en la industria: guía introductoria – Telefónica Tech](https://empresas.blogthinkbig.com/iot-industria-industria-4-0/)
+📄 [¿Qué es el IIoT? Descubre el Internet Industrial de las Cosas – Iberdrola](https://www.iberdrola.com/innovacion/que-es-iiot)
 
 ---
 
