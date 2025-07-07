@@ -173,6 +173,7 @@ Piensa en una tarea rutinaria en tu hogar (por ejemplo, subir las persianas, pon
 🎥 [AMAZON incorpora en sus almacenes a robots humanoides que trabajan junto a sus empleados  – ElPaís (1 min)](https://www.youtube.com/watch?v=V3zOqrrtbrA)
 
 📄 [¿Qué es la Cuarta Revolución Industrial y cómo surge? - Repsol](https://www.repsol.com/es/energia-futuro/tecnologia-innovacion/cuarta-revolucion-industrial/index.cshtml)
+
 ---
 
 ## 💡 RECUERDA
