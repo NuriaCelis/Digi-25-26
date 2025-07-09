@@ -377,3 +377,109 @@ Pasos básicos:
 
 ---
 
+# 4. Ventajas de la migración a entornos 4.0 en la empresa
+
+La transformación digital hacia entornos 4.0 supone un cambio profundo en la forma de operar de las empresas. No se trata solo de incorporar nuevas tecnologías, sino de **redefinir procesos, modelos de negocio y la relación con clientes y proveedores**.
+
+Adoptar la **Industria 4.0** conlleva numerosos beneficios tanto en el corto como en el largo plazo. A continuación, detallamos las ventajas más destacadas:
+
+---
+
+## 🌐 Automatización inteligente de procesos
+
+La incorporación de sensores, actuadores y sistemas automatizados permite:
+
+- **Reducir errores humanos** y variabilidad en la producción.
+- **Aumentar la eficiencia operativa**, con procesos más rápidos y precisos.
+- Mejorar el **control de calidad** en tiempo real.
+
+---
+
+## 📊 Toma de decisiones basada en datos
+
+El análisis masivo de datos (Big Data) y el uso de inteligencia artificial permiten:
+
+- **Tomar decisiones estratégicas basadas en evidencia**, no en suposiciones.
+- Detectar patrones, anticiparse a problemas o **prever la demanda futura**.
+- Evaluar continuamente el rendimiento de la empresa.
+
+---
+
+## 🔁 Flexibilidad y personalización
+
+Gracias a tecnologías como la fabricación aditiva, el IoT o los sistemas ciberfísicos, las empresas pueden:
+
+- Adaptarse rápidamente a **cambios en el mercado**.
+- **Ofrecer productos personalizados** o de tiradas pequeñas sin perder rentabilidad.
+- Reducir tiempos de lanzamiento al mercado (*time to market*).
+
+---
+
+## 💡 Innovación continua
+
+La migración a entornos 4.0 fomenta una cultura de mejora constante, donde:
+
+- Se promueve la **experimentación y el aprendizaje**.
+- Se abren nuevas oportunidades de **negocio digital**.
+- Se transforman modelos clásicos (p. ej., de venta de productos a prestación de servicios).
+
+---
+
+## 🌱 Sostenibilidad y eficiencia energética
+
+La digitalización también ayuda a:
+
+- **Reducir el consumo energético y de recursos**, gracias a sistemas de gestión inteligentes.
+- Disminuir el desperdicio de materiales.
+- Promover la **producción sostenible** y responsable.
+
+---
+
+## 👥 Mejora de la experiencia del cliente
+
+Al integrar tecnologías digitales, las empresas pueden:
+
+- **Conocer mejor a sus clientes** mediante análisis de datos.
+- Ofrecer experiencias personalizadas y servicios conectados.
+- **Aumentar la fidelización y satisfacción** del consumidor.
+
+---
+
+## 💬 REFLEXIONA
+
+> ¿Crees que todas las empresas deberían transformarse digitalmente?  
+> ¿Qué riesgos crees que podrían aparecer en el proceso de migración a entornos 4.0?
+
+---
+
+## 📺 AMPLIA
+
+- [¿Qué es la Industria 4.0? - Video de BBVA Aprendemos Juntos (YouTube)](https://www.youtube.com/watch?v=pkMbwU0zEqs)
+- [Caso real: Cómo Seat Martorell utiliza la Industria 4.0 (YouTube)](https://www.youtube.com/watch?v=XzZXIDkPlbo)
+
+---
+
+## 🧠 RECUERDA
+
+- La Industria 4.0 **no es solo automatización**, sino también **conectividad, análisis y adaptación**.
+- Migrar a un entorno digital permite a las empresas ser más competitivas, innovadoras y sostenibles.
+
+---
+
+## ✅ CONTESTA
+
+**Pregunta tipo test:**  
+¿Cuál de los siguientes NO es un beneficio directo de la migración a entornos 4.0?
+
+A) Mejora en la eficiencia y automatización de procesos  
+B) Reducción del uso de datos en la toma de decisiones  
+C) Incremento de la personalización en la oferta de productos  
+D) Mayor sostenibilidad en los procesos de producción  
+
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: B) Reducción del uso de datos en la toma de decisiones.**  
+
+</details>
+
