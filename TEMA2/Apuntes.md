@@ -563,13 +563,6 @@ Muchos consumidores valoran cada vez más que los productos se fabriquen de form
 
 ---
 
-### 🎥 AMPLÍA
-
-- [🔗 ¿Qué es la Industria 4.0? - Fundación Telefónica](https://www.youtube.com/watch?v=J_BcIA5nWJg)  
-- [🔗 Industria 4.0 y sus beneficios para el consumidor - Think Big Empresas](https://www.youtube.com/watch?v=VnS3L7i2MoY)
-
----
-
 ### 🧠 RECUERDA
 
 - La 4ª Revolución Industrial permite integrar tecnología en todos los niveles del proceso productivo y comercial.
