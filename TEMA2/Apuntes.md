@@ -445,7 +445,7 @@ Al integrar tecnologías digitales, las empresas pueden:
 
 ---
 
-[Ventajas de la migración a entornos 4.0](TEMA2/Imagen1.png)
+![Ventajas de la migración a entornos 4.0](TEMA2/Imagen1.png)
 
 ## 💬 REFLEXIONA
 
