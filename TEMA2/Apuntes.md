@@ -445,6 +445,8 @@ Al integrar tecnologías digitales, las empresas pueden:
 
 ---
 
+[Ventajas de la migración a entornos 4.0](TEMA2/Imagen1.png)
+
 ## 💬 REFLEXIONA
 
 > ¿Crees que todas las empresas deberían transformarse digitalmente?  
@@ -454,8 +456,8 @@ Al integrar tecnologías digitales, las empresas pueden:
 
 ## 📺 AMPLIA
 
-- [¿Qué es la Industria 4.0? - Video de BBVA Aprendemos Juntos (YouTube)](https://www.youtube.com/watch?v=pkMbwU0zEqs)
-- [Caso real: Cómo Seat Martorell utiliza la Industria 4.0 (YouTube)](https://www.youtube.com/watch?v=XzZXIDkPlbo)
+🎥 [Industria 4.0: Revolución y Automatización Industrial (6 min)](https://www.youtube.com/watch?v=mGInEqh0m70)
+🎥 [Visitamos la fábrica del SU7, el primer coche eléctrico de Xiaomi (2 min)](https://www.youtube.com/watch?v=xq-e00VNOMw)
 
 ---
 
