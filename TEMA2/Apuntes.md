@@ -457,6 +457,7 @@ Al integrar tecnologías digitales, las empresas pueden:
 ## 📺 AMPLIA
 
 🎥 [Industria 4.0: Revolución y Automatización Industrial (6 min)](https://www.youtube.com/watch?v=mGInEqh0m70)
+
 🎥 [Visitamos la fábrica del SU7, el primer coche eléctrico de Xiaomi (2 min)](https://www.youtube.com/watch?v=xq-e00VNOMw)
 
 ---
@@ -484,4 +485,126 @@ D) Mayor sostenibilidad en los procesos de producción
 ✅ **Respuesta correcta: B) Reducción del uso de datos en la toma de decisiones.**  
 
 </details>
+
+## 5. Ventajas de la 4ª revolución industrial para clientes y empresas
+
+La 4ª Revolución Industrial no solo transforma la forma en que se producen los bienes y servicios, sino también cómo se consumen, se distribuyen y se diseñan. Esta transformación afecta a toda la cadena de valor, ofreciendo múltiples ventajas tanto para las **empresas** como para los **clientes**.
+
+### ✅ Ventajas para las empresas
+
+#### 1. Mayor eficiencia operativa
+Gracias a la automatización de procesos mediante robots, sensores y software inteligente, las empresas reducen los tiempos de producción, minimizan los errores humanos y optimizan el uso de recursos.
+
+🛠️ *Ejemplo:* Una fábrica de automóviles que utiliza robots colaborativos (cobots) en la línea de ensamblaje puede reducir un 30% el tiempo de producción de un vehículo y mejorar la precisión de montaje.
+
+---
+
+#### 2. Toma de decisiones basada en datos (Big Data)
+Los sistemas ciberfísicos e IoT recogen miles de datos en tiempo real. Analizarlos permite tomar decisiones más informadas y rápidas.
+
+📊 *Ejemplo:* Una empresa logística puede saber qué rutas son más eficientes en función del tráfico o de condiciones meteorológicas, ahorrando combustible y tiempo.
+
+---
+
+#### 3. Reducción de costes
+Al evitar errores, optimizar procesos y reducir desperdicios, la empresa disminuye sus costes operativos.
+
+💡 *Ejemplo:* Una industria textil que monitoriza digitalmente el uso de materiales puede reducir hasta un 20% el desperdicio de tela.
+
+---
+
+#### 4. Flexibilidad y adaptabilidad al mercado
+Las fábricas inteligentes pueden adaptarse rápidamente a nuevas demandas del mercado sin necesidad de parar la producción o hacer grandes inversiones.
+
+🎯 *Ejemplo:* Una planta de electrodomésticos puede cambiar el color de los productos automáticamente en función de las tendencias detectadas en redes sociales.
+
+---
+
+#### 5. Nuevas oportunidades de negocio
+La digitalización permite crear servicios adicionales como mantenimiento predictivo, personalización o modelos por suscripción.
+
+🔧 *Ejemplo:* Una empresa que vende maquinaria incorpora sensores para ofrecer un servicio de mantenimiento predictivo que avisa cuando alguna pieza está a punto de fallar.
+
+---
+
+### 🛍️ Ventajas para los clientes
+
+#### 1. Productos más personalizados
+Gracias a los sistemas modulares de fabricación y al análisis de datos de consumo, las empresas pueden ofrecer productos ajustados a los gustos y necesidades del cliente.
+
+🎨 *Ejemplo:* Un fabricante de zapatillas permite al cliente personalizar colores, materiales y tallas a través de una plataforma web.
+
+---
+
+#### 2. Mayor calidad y fiabilidad
+La monitorización en tiempo real y el control digital aseguran que los productos cumplan los estándares desde el origen.
+
+🧪 *Ejemplo:* En la industria alimentaria, los sensores de temperatura aseguran que los productos se mantengan dentro de los márgenes de seguridad durante todo el transporte.
+
+---
+
+#### 3. Mejor experiencia de compra
+Gracias al análisis de comportamiento del cliente y a las herramientas digitales, la experiencia de compra se vuelve más fluida, cómoda y satisfactoria.
+
+🛒 *Ejemplo:* Plataformas online como Amazon recomiendan productos basándose en tus búsquedas anteriores, y permiten hacer seguimientos en tiempo real del pedido.
+
+---
+
+#### 4. Participación en procesos sostenibles
+Muchos consumidores valoran cada vez más que los productos se fabriquen de forma responsable, con menor impacto ambiental.
+
+🌍 *Ejemplo:* Una marca de ropa comunica mediante un código QR el origen de cada prenda, indicando que está hecha con materiales reciclados y energía renovable.
+
+---
+
+### 📌 REFLEXIONA
+
+> ¿Hasta qué punto crees que los clientes valoran estas ventajas? ¿Qué podrían hacer las empresas para transmitir mejor estos beneficios?
+
+---
+
+### 🎥 AMPLÍA
+
+- [🔗 ¿Qué es la Industria 4.0? - Fundación Telefónica](https://www.youtube.com/watch?v=J_BcIA5nWJg)  
+- [🔗 Industria 4.0 y sus beneficios para el consumidor - Think Big Empresas](https://www.youtube.com/watch?v=VnS3L7i2MoY)
+
+---
+
+### 🧠 RECUERDA
+
+- La 4ª Revolución Industrial permite integrar tecnología en todos los niveles del proceso productivo y comercial.
+- Las empresas se benefician en eficiencia, competitividad y capacidad de adaptación.
+- Los clientes obtienen productos más adaptados, seguros y sostenibles.
+
+---
+
+### ❓ CONTESTA
+
+1. **Relaciona cada ventaja con su beneficiario (empresa o cliente):**
+
+   | Ventaja                                       | Empresa / Cliente |
+   |----------------------------------------------|-------------------|
+   | Producción personalizada                      | Cliente           |
+   | Mantenimiento predictivo                      | Empresa           |
+   | Seguimiento en tiempo real de pedidos         | Cliente           |
+   | Reducción de costes operativos                | Empresa           |
+   | Participación en procesos sostenibles         | Cliente           |
+   | Nuevos modelos de negocio                     | Empresa           |
+
+2. **Pregunta tipo test:**  
+   ¿Cuál de las siguientes es una ventaja directa de la Industria 4.0 para las empresas?
+
+   - A) Mayor personalización de productos  
+   - B) Mejora en la calidad del producto  
+   - C) Reducción de los costes operativos  
+   - D) Acceso a productos más sostenibles  
+
+   
+<details>
+<summary>Ver respuesta</summary>
+
+✅ **Respuesta correcta: C) Reducción de los costes operativos .**  
+
+</details>
+---
 
