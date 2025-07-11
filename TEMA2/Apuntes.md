@@ -373,7 +373,7 @@ Pasos básicos:
 
 🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
 
-  [Práctica Opcional](TEMA2/Practica.md)
+  [Práctica Opcional](/TEMA2/Practica.md)
 
 ---
 
