@@ -106,8 +106,8 @@ El usuario accede directamente a **una aplicación completa a través de interne
 
 ---
 
-# Tema 3: Sistemas basados en cloud/nube  
-## 1. Definición de cloud y sus niveles
+
+## 2. Definición de cloud y sus niveles
 
 ### ¿Qué es el cloud computing?
 
@@ -255,7 +255,7 @@ D) Hardware local
 
 </details>
 
-## 2. Funciones y posibilidades de uso del cloud en una empresa
+## 3. Funciones y posibilidades de uso del cloud en una empresa
 
 El uso de servicios en la nube (cloud computing) ha cambiado por completo la forma en que las empresas gestionan su información, sus recursos y su relación con clientes y empleados.
 
