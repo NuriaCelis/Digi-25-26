@@ -9,15 +9,15 @@ Simular un sistema ciberfísico básico: una **estación meteorológica** que mu
 ## 1. Crea una cuenta en Tinkercad
 
 1. Ve a [https://www.tinkercad.com](https://www.tinkercad.com)
-2. Haz clic en **Join Now** (Unirse ahora) o **Start Tinkering**.
-3. Regístrate con una cuenta de correo o usa una cuenta de Google si lo prefieres.
+2. Haz clic en **Iniciar Sesión** (Unirse ahora) o **Registrarse**.
+3. Regístrate con una cuenta de correo de Educantabria o usa una cuenta de Google si lo prefieres.
 
 ---
 
-## 2. Accede a la sección de "Circuits"
+## 2. Accede a la sección de "Inicio"
 
-- Una vez dentro, haz clic en el botón **"Circuits"** en el menú de la izquierda.
-- Pulsa **"Create new Circuit"** para comenzar un nuevo proyecto.
+- Una vez dentro, vas a la sección de **"Circuitos"**.
+- Pulsa **"Crea tu primer diseño de circuitos"** para comenzar un nuevo proyecto.
 
 ---
 

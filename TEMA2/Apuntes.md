@@ -353,30 +353,6 @@ D) Un software de comunicación
 
 ---
 
-## 🏭 HAZLO TU MISMO
-### Caso práctico con herramientas gratuitas
-
-**Crear una simulación de un entorno físico con Tinkercad y Arduino online**
-
-🔧 **Herramienta gratuita:** [Tinkercad Circuits](https://www.tinkercad.com/circuits)
-
-🛠️ **Actividad sugerida:**  
-Simula una pequeña estación meteorológica usando sensores virtuales en Tinkercad.
-
-Pasos básicos:
-
-1. Crear una cuenta gratuita en Tinkercad.
-2. Acceder a la sección de **Circuits**.
-3. Usar una placa **Arduino UNO**, sensores de temperatura y humedad (DHT11), una pantalla LCD o LED.
-4. Programar el comportamiento: mostrar datos en la pantalla.
-5. (Opcional) Simular que los datos se envían a la nube (con comentarios en el código).
-
-🎯 **Objetivo:** comprender cómo se recogen datos físicos (sensor de temperatura) y se procesan virtualmente (Arduino).
-
-  [Práctica Opcional](Practica.md)
-
----
-
 # 4. Ventajas de la migración a entornos 4.0 en la empresa
 
 La transformación digital hacia entornos 4.0 supone un cambio profundo en la forma de operar de las empresas. No se trata solo de incorporar nuevas tecnologías, sino de **redefinir procesos, modelos de negocio y la relación con clientes y proveedores**.
