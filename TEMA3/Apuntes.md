@@ -342,7 +342,7 @@ Muchos servicios cloud ofrecen almacenamiento cifrado, backups automáticos y re
 
 ## 🎥 AMPLÍA
 
-- [🔗 ¿Qué es la nube y cómo funciona? - Fundación Telefónica (3:15 min)](https://www.youtube.com/watch?v=4O0GDAeWPcY)  
+- [🔗 ¿Qué es la nube y cómo funciona? - Laita Digital (4:40 min)](https://www.youtube.com/watch?v=B5JpUzGcCec)  
 - [🔗 Aplicaciones de la nube en las empresas - BBVA Aprendemos (2:21 min)](https://www.youtube.com/watch?v=9kGZ-MAY4-s)
 
 ---
