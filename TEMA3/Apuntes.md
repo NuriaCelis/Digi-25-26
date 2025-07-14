@@ -199,7 +199,7 @@ El usuario accede directamente a **una aplicación completa a través de interne
 ## 📺 AMPLÍA
 
 - [🔗 ¿Qué es el cloud computing? - IBM (3:16 min)](https://www.youtube.com/watch?v=ae_DKNwK_ms)
-- [🔗 CLOUD COMPUTING ¿Qué es IaaS, PaaS y Saas? | Modelos de Servicio Cloud (6:36 min)](https://www.youtube.com/watch?v=VR8aXePkQ5M)
+- [🔗 CLOUD COMPUTING ¿Qué es IaaS, PaaS y Saas? Modelos de Servicio Cloud (6:36 min)](https://www.youtube.com/watch?v=VR8aXePkQ5M)
 
 ---
 
