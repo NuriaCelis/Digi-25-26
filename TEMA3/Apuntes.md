@@ -436,7 +436,7 @@ D) Local ERP
 ## 🎥 AMPLÍA
 
 - [🔗 ¿Qué es la nube y cómo funciona? - Laita Digital (4:40 min)](https://www.youtube.com/watch?v=B5JpUzGcCec)  
-- [🔗 ¿Qué es un ERP? | ERP en la nube | Planificación de recursos empresariales (5:41 min)](https://www.youtube.com/watch?v=AgBrLJJuZ1w)
+- [🔗 ¿Qué es un ERP? ERP en la nube Planificación de recursos empresariales (5:41 min)](https://www.youtube.com/watch?v=AgBrLJJuZ1w)
 
 ---
 
