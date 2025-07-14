@@ -320,6 +320,99 @@ Muchos servicios cloud ofrecen almacenamiento cifrado, backups automáticos y re
 
 ---
 
+![Funciones del Cloud en una Empresa](Imagen1.png)
+
+---
+
+### ERP en la nube: tipos, ejemplos y ventajas
+
+#### ¿Qué es un ERP?
+
+Un **ERP (Enterprise Resource Planning)** es un sistema de planificación de recursos empresariales. Es un conjunto de aplicaciones integradas que permiten a una empresa gestionar sus principales procesos: contabilidad, ventas, compras, inventario, recursos humanos, producción, etc., **todo desde una única plataforma**.
+
+Cuando este sistema se aloja en la nube, se denomina **ERP en la nube (Cloud ERP)**. Esto significa que el software y los datos están alojados en servidores remotos a los que se accede por internet.
+
+---
+
+#### 🧱 Tipos de ERP
+
+| Tipo de ERP        | Descripción                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **On-premise**      | Instalado en los servidores de la propia empresa. Requiere mantenimiento propio. |
+| **En la nube (Cloud)** | Alojado en servidores externos. No requiere instalación local.            |
+| **Híbrido**         | Parte del sistema está en la nube y parte en local.                         |
+
+---
+
+### 🌐 Ejemplos de ERP en la nube
+
+- **Odoo**: ERP modular, muy utilizado en pymes. Se puede usar online desde su web.  
+- **SAP Business One Cloud**: solución de SAP para pequeñas y medianas empresas.  
+- **Zoho ERP**: suite integrada que incluye CRM, finanzas, inventario y más.  
+- **Microsoft Dynamics 365**: ERP+CRM muy completo, integrado con Microsoft 365.  
+- **Holded**: ERP español, fácil de usar, orientado a pymes y autónomos.
+
+---
+
+### ✅ Ventajas de tener un ERP en la nube
+
+- **Acceso desde cualquier lugar**: solo se necesita internet para trabajar.
+- **Costes iniciales bajos**: no es necesario comprar servidores ni licencias caras.
+- **Actualizaciones automáticas**: el sistema se mantiene siempre actualizado.
+- **Seguridad y copias de seguridad incluidas**: los datos están protegidos por el proveedor.
+- **Escalabilidad**: puedes empezar con pocas funciones e ir ampliando según necesidades.
+- **Mejora de la productividad**: al integrar toda la gestión, se evitan errores y duplicidades.
+
+---
+
+### 💬 Ejemplo práctico
+
+Una tienda online con varios empleados puede gestionar los pedidos, el stock, las facturas y la atención al cliente desde un único panel usando **Odoo en la nube**. No necesita instalar nada en sus ordenadores ni tener conocimientos técnicos avanzados.
+
+---
+
+## ❓ CONTESTA
+
+**1. ¿Qué tipo de ERP permite acceder desde cualquier dispositivo con conexión a internet?**
+
+A) On-premise  
+B) Híbrido  
+C) Cloud ERP  
+D) Local ERP  
+
+<details>
+<summary><strong>Ver respuesta</strong></summary>
+
+✅ **Respuesta correcta:** C) Cloud ERP  
+*Es un sistema ERP alojado en la nube, accesible desde cualquier lugar con internet.*
+
+</details>
+
+---
+
+**2. Relaciona cada ERP con su característica principal:**
+
+| ERP                       | Característica destacada                     |
+|---------------------------|----------------------------------------------|
+| Odoo                      | Modular y flexible, ideal para pymes         |
+| SAP Business One Cloud    | Solución profesional con mucha analítica     |
+| Holded                    | ERP español, simple e intuitivo              |
+| Microsoft Dynamics 365    | Integrado con Office y Microsoft 365         |
+
+<details>
+<summary><strong>Ver respuestas</strong></summary>
+
+- **Odoo** → Modular y flexible, ideal para pymes  
+- **SAP Business One Cloud** → Solución profesional con mucha analítica  
+- **Holded** → ERP español, simple e intuitivo  
+- **Microsoft Dynamics 365** → Integrado con Office y Microsoft 365  
+
+</details>
+
+
+---
+
+
 ## 🧪 PRÁCTICA OPCIONAL
 
 **Simula el uso colaborativo en la nube**:
@@ -343,7 +436,7 @@ Muchos servicios cloud ofrecen almacenamiento cifrado, backups automáticos y re
 ## 🎥 AMPLÍA
 
 - [🔗 ¿Qué es la nube y cómo funciona? - Laita Digital (4:40 min)](https://www.youtube.com/watch?v=B5JpUzGcCec)  
-- [🔗 Aplicaciones de la nube en las empresas - BBVA Aprendemos (2:21 min)](https://www.youtube.com/watch?v=9kGZ-MAY4-s)
+- [🔗 ¿Qué es un ERP? | ERP en la nube | Planificación de recursos empresariales (5:41 min)](https://www.youtube.com/watch?v=AgBrLJJuZ1w)
 
 ---
 
